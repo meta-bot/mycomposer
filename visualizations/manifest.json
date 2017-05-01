@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "meta-bot": {
+    "title": "Muhaimin Anando",
+    "website": "https://github.com/meta-bot",
+    "logo": "https://avatars1.githubusercontent.com/u/13970152?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/meta-bot",
           "versions": {
             "1.0.0": {
               "simple": {
